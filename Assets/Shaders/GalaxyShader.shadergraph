@@ -5,9 +5,6 @@
     "m_Properties": [
         {
             "m_Id": "f1680091d5ed497baf0b9dac52c7b338"
-        },
-        {
-            "m_Id": "0ab0c40954a64762952bd5ad7aa1e82e"
         }
     ],
     "m_Keywords": [],
@@ -141,32 +138,6 @@
 }
 
 {
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "0ab0c40954a64762952bd5ad7aa1e82e",
-    "m_Guid": {
-        "m_GuidSerialized": "bc6d4eb0-295e-419d-a89c-53d5036ee7be"
-    },
-    "m_Name": "GalaxyColor",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "GalaxyColor",
-    "m_DefaultReferenceName": "GalaxyColor",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 0.0
-    },
-    "m_ColorMode": 1
-}
-
-{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "0e01a12551924deca4086173aec48fac",
@@ -283,10 +254,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1211.176513671875,
-            "y": -253.60784912109376,
-            "width": 0.0,
-            "height": 0.0
+            "x": -466.0000305175781,
+            "y": -206.0,
+            "width": 114.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -459,8 +430,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -854.0,
-            "y": -283.0,
+            "x": -103.99996185302735,
+            "y": -227.00001525878907,
             "width": 208.00001525878907,
             "height": 350.0000305175781
         }
@@ -580,10 +551,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1211.0,
-            "y": -20.999984741210939,
+            "x": -466.0000305175781,
+            "y": -172.00001525878907,
             "width": 208.00001525878907,
-            "height": 316.0000305175781
+            "height": 316.0
         }
     },
     "m_Slots": [
